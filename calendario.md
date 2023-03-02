@@ -7,47 +7,47 @@ Repository del corso di Gamification 2022-2023
 
 2. 10.03.23 (virtual class)
 
-> la ludicizzazione della/nella cultura, l'automodello culturale
+> la ludicizzazione della/nella cultura, l'automodello culturale, la culturalizzazione del gioco
 
 3. 17.03.23 (virtual class)
 
-> il design del coinvolgimento 1
+> design dell'esperienza e del coinvolgimento 1, la SDT, le 4 tipologie di fun, il cerchio magico, il piacere della scoperta e gli ARG
 
 4. 24.03.23 (virtual class)
 
-> 
+> design della gamification: le regole, loop compessi e cicli d'azione, MOAR, progresso orizzontale e verticale, gamification del patrimonio culturale
 
 5. 31.03.23 (virtual class)
 
-> Strumenti: Octalysis Tool
+> Pratiche di gioco e non-gioco, Near win effect, Azione-scelta-autonomia, il cambiamento, ritmi e durate 
 
 6. 14.04.23
 
->
+> sistemi premiali, effetto sorpresa
 
 7. 21.04.23
 
->
+> Strumenti: Octalysis Tool
 
 8. 28.04.23
 
->
+> Ricerca Sociale 1
 
 9. 05.05.23
 
-> Ricerca Sociale 1
+> Ricerca Sociale 2
 
 10. 12.05.23
 
-> Ricerca Sociale 2
+> Strumenti (della ricerca sociale):
 
 11. 19.05.23
 
-> Ricerca Sociale 3
+> UX e UI, tradizioni, ergonomia
 
 12. 26.05.23
 
-> UX e UI, tradizioni, ergonomia
+> UX e UI
 
 13. 09.06.23
 
