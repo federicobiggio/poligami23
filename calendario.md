@@ -15,31 +15,31 @@ Repository del corso di Gamification 2022-2023
 
 4. 24.03.23 (virtual class)
 
-> design della gamification: le regole, loop compessi e cicli d'azione, MOAR, progresso orizzontale e verticale, gamification del patrimonio culturale
+> Ricerca Sociale 1
 
 5. 31.03.23 (virtual class)
 
-> Pratiche di gioco e non-gioco, Near win effect, Azione-scelta-autonomia, il cambiamento, ritmi e durate 
+> Ricerca Sociale 2
 
 6. 14.04.23
 
-> sistemi premiali, effetto sorpresa
+> Strumenti (della ricerca sociale), Design Thinking e Community Building
 
 7. 21.04.23
 
-> Strumenti: Octalysis Tool
+> design della gamification: le regole, loop compessi e cicli d'azione, MOAR, progresso orizzontale e verticale, gamification del patrimonio culturale
 
 8. 28.04.23
 
-> Ricerca Sociale 1
+> > Pratiche di gioco e non-gioco, Near win effect, Azione-scelta-autonomia, il cambiamento, ritmi e durate 
 
 9. 05.05.23
 
-> Ricerca Sociale 2
+> I sistemi premiali e l'effetto sorpresa
 
 10. 12.05.23
 
-> Strumenti (della ricerca sociale):
+> Strumenti: Octalysis Tool
 
 11. 19.05.23
 
@@ -47,7 +47,7 @@ Repository del corso di Gamification 2022-2023
 
 12. 26.05.23
 
-> UX e UI
+> UX e UI, design
 
 13. 09.06.23
 
