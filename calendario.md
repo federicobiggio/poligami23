@@ -7,11 +7,11 @@ Repository del corso di Gamification 2022-2023
 
 2. **10.03.23 (virtual class)**
 
-> la ludicizzazione della/nella cultura, l'automodello culturale, la culturalizzazione del gioco
+> design dell'esperienza e del coinvolgimento 1, la SDT, le 4 tipologie di fun, il cerchio magico, il piacere della scoperta e gli ARG
 
 3. **17.03.23 (virtual class)**
 
-> design dell'esperienza e del coinvolgimento 1, la SDT, le 4 tipologie di fun, il cerchio magico, il piacere della scoperta e gli ARG
+> la ludicizzazione della/nella cultura, l'automodello culturale, la culturalizzazione del gioco, il giornalismo e la gamification
 
 4. **24.03.23 (virtual class)**
 
@@ -23,15 +23,15 @@ Repository del corso di Gamification 2022-2023
 
 6. **14.04.23**
 
-> Strumenti (della ricerca sociale), Design Thinking e Community Building
+> Strumenti (della ricerca sociale), Design Thinking e Community Building + attività
 
 7. **21.04.23**
 
-> design della gamification: le regole, loop compessi e cicli d'azione, MOAR, progresso orizzontale e verticale, gamification del patrimonio culturale
+> design della gamification: le regole, loop compessi e cicli d'azione, MOAR, progresso orizzontale e verticale, gamification del patrimonio culturale + attività
 
 8. **28.04.23**
 
-> > Pratiche di gioco e non-gioco, Near win effect, Azione-scelta-autonomia, il cambiamento, ritmi e durate 
+> > Pratiche di gioco e non-gioco, Near win effect, Azione-scelta-autonomia, il cambiamento, ritmi e durate + attività
 
 9. **05.05.23**
 
